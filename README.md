@@ -44,7 +44,7 @@ My repositories showcase end-to-end analytical projects, including:
 - Executive dashboards (strategy, HR, finance)
 - NLP-based cybersecurity analytics
 - Environmental and sustainability analytics
-- Financial modelling and restructuring case studies
+- Financial modelling and restructuring
 
 ## 📫 How to Reach Me
 
